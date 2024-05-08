@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "format:dev": "prettier src/ --write"
   },
   "dependencies": {
     "@astrojs/preact": "^3.2.0",
